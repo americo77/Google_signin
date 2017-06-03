@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "453457192438",
+    "project_id": "login-6871b"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453457192438:android:6ab22fe03913f550",
+        "android_client_info": {
+          "package_name": "com.example.americo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453457192438-615t3m4k7he15s2hvj2oe8q9v5c9ig20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHv4L1WDGVCYOAOF-WWDB6EXlLGw9paI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453457192438:android:e949c08c6a4fbc09",
+        "android_client_info": {
+          "package_name": "prueba.sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453457192438-f3akku3nnv3ldq0kbk5o8ndhpidg3fjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prueba.sign",
+            "certificate_hash": "a1538f98302cbaee3318bd40c5af496750ec57df"
+          }
+        },
+        {
+          "client_id": "453457192438-615t3m4k7he15s2hvj2oe8q9v5c9ig20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHv4L1WDGVCYOAOF-WWDB6EXlLGw9paI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
